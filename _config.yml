@@ -19,7 +19,7 @@ email: giuseppelucarelli@pm.com
 description: >- # this means to ignore newlines until "baseurl:"
   “The beauty of mathematics only shows itself to more patient followers.” - Maryam Mirzakhani
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://giuluk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # social links
 github_username: giuluk
