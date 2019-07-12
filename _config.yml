@@ -24,16 +24,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # social links
 github_username: giuluk
 twitter_username: giuluk
-#facebook_username: giuseppelucarelli
-
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: giuluk
-
-# Google Analytics
-#google_analytics: UA-NNNNNNNN-N
 
 # Build settings
 markdown: kramdown
@@ -46,13 +36,11 @@ include: ['_pages']
 ### License
 license: CC BY SA 4.0
 license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.it
-license_image_url: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 
 header_pages:
   - _pages/blog.md
   - _pages/stuff.md
   - _pages/about.md
-  - _pages/cookie-policy.md
 #  - _pages/categories.md
 #  - _pages/tags.md
 
