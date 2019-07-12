@@ -36,7 +36,7 @@ include: ['_pages']
 ### License
 license: GNU Free Documentation License 1.3
 license_url: https://www.gnu.org/licenses/fdl-1.3.html
-license_image_url: https://giuluk.github.io/gfdl-logo.png
+license_image_url: https://giuluk.github.io/gfdl-logo-tiny.png
 
 header_pages:
   - _pages/blog.md
