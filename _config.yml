@@ -36,6 +36,7 @@ include: ['_pages']
 ### License
 license: CC BY SA 4.0
 license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+license_image_url: https://giuluk.github.io/cc.png
 
 header_pages:
   - _pages/blog.md
