@@ -34,9 +34,9 @@ plugins:
 include: ['_pages']
 
 ### License
-license: CC BY SA 4.0
-license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.it
-license_image_url: https://giuluk.github.io/cc.png
+license: GNU Free Documentation License 1.3
+license_url: https://www.gnu.org/licenses/fdl-1.3.html
+license_image_url: https://giuluk.github.io/gfdl-logo.png
 
 header_pages:
   - _pages/blog.md
