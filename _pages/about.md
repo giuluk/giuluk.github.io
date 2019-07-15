@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sono un insegnante di Matematica e (qualche volta) Fisica presso una piccola _scuola di provincia_ in Trentino-Alto Adige.
+Sono un insegnante di Matematica e (qualche volta) Fisica presso una piccola scuola in Trentino-Alto Adige.
 
 L'idea di questo spazio sul web nasce dalla necessità di ordinare e condividere il materiale che ho accumulato nel corso degli anni per le mie lezioni.
 
@@ -16,7 +16,7 @@ Per la **privacy policy** ([testo completo](https://www.iubenda.com/privacy-poli
 Il blog utilizza [MathJax](https://www.mathjax.org) per consentire l'inserimento di formule all'interno delle pagine web; l’utilizzo di tale servizio comporta l’installazione di un cookie tecnico di terze parti **non** profilante.
 
 ## Licenza dei contenuti
-I contenuti di questo sito sono rilasciati sotto **GNU Free Documentation License v1.3** ([testo completo](https://www.gnu.org/licenses/fdl-1.3.html)), salvo dove diversamente specificato.
+I contenuti di questo sito sono rilasciati sotto **GNU Free Documentation License v1.3** ([testo completo](https://www.gnu.org/licenses/fdl-1.3-standalone.html)), salvo dove diversamente specificato.
 
 Il materiale concesso sotto la versione corrente della licenza può essere utilizzato a condizione che il suo uso sia conforme a determinate condizioni:
 
