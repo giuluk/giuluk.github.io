@@ -23,10 +23,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # social links
 github_username: giuluk
-twitter_username: giuluk
+#instagram_username: giuluk
+#twitter_username: giuluk
+#facebook_username: giuseppelucarelli
 
 # Build settings
 markdown: kramdown
+
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
+
 theme: minima
 plugins:
   - jekyll-feed
@@ -56,3 +63,16 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# default excludes
+exclude:
+- .sass-cache/
+- .jekyll-cache/
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
