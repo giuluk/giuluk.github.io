@@ -6,7 +6,7 @@ categories: [matematica]
 tags: [collatz, python]
 mathjax: true
 published: true
-comments: true
+comments: false
 ---
 
 La [Congettura di Collatz](https://it.wikipedia.org/wiki/Congettura_di_Collatz), enunciata nel 1937 dal matematico tedesco *Lothar Collatz*, è uno dei tanti problemi matematici ancora senza una soluzione.
