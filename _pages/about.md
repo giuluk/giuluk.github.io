@@ -13,6 +13,11 @@ Folgaria, 04 luglio 2019
 Per la **privacy policy** ([testo completo](https://www.iubenda.com/privacy-policy/33411247/legal)) ho usato il servizio [iubenda](https://www.iubenda.com/).
 Il blog utilizza [MathJax](https://www.mathjax.org) per consentire l'inserimento di formule all'interno delle pagine web; l’utilizzo di tale servizio comporta l’installazione di un cookie tecnico di terze parti **non** profilante.
 
+| Tipo di cookie | Nome cookie | Scopo del cookie |
+|-------|--------|---------|
+| Cloudflare cookies | __cfduid | Il sito utilizza il CDN (Content Delivery Network) di CloudFlare per fornire la libreria JavaScript MathJax che riproduce le formule matematiche in LaTeX sul sito. Il cookie viene aggiunto da Cloudflare ed è utilizzato per motivi di sicurezza. [Più informazioni](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-) - [Cloudflare Cookie Policy](https://www.cloudflare.com/cookie-policy/). |
+
+
 ## Licenza dei contenuti
 I contenuti di questo sito sono rilasciati sotto **GNU Free Documentation License v1.3** ([testo completo](https://www.gnu.org/licenses/fdl-1.3-standalone.html)), salvo dove diversamente specificato.
 
