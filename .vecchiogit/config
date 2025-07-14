@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[submodule "themes/paper"]
+	url = https://github.com/nanxiaobei/hugo-paper
+	active = true

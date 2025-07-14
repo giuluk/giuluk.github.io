@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benvenuto on Do the math</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Benvenuto on Do the math</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sun, 13 Jul 2025 16:52:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Questo è un test</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Jul 2025 16:52:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;prova&#34;&gt;Prova!!!&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The beauty of mathematics only shows itself to more patient followers.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Maryam Mirzakhani&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy e Cookie Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;Questo sito è un blog personale gestito da &lt;strong&gt;Giuseppe Lucarelli&lt;/strong&gt;.&#xA;Non raccoglie dati personali, non effettua profilazione degli utenti e &lt;strong&gt;non utilizza cookie&lt;/strong&gt; propri o di terze parti.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-cookie&#34;&gt;🍪 Cookie&lt;/h3&gt;&#xA;&lt;p&gt;Il sito &lt;strong&gt;non utilizza cookie tecnici, analitici o di profilazione&lt;/strong&gt;.&#xA;Non sono presenti:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Google Analytics o strumenti simili,&lt;/li&gt;&#xA;&lt;li&gt;pixel di tracciamento,&lt;/li&gt;&#xA;&lt;li&gt;contenuti incorporati da piattaforme come YouTube, Twitter, Facebook, etc&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;L&amp;rsquo;assenza di questi elementi rende &lt;strong&gt;non necessario&lt;/strong&gt; il banner informativo o il consenso preventivo, in conformità al &lt;a href=&#34;https://eur-lex.europa.eu/eli/reg/2016/679&#34;&gt;GDPR&lt;/a&gt; e alle &lt;a href=&#34;https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9677876&#34;&gt;Linee guida cookie del Garante&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;-due-parole-su-di-me&#34;&gt;✏️ Due parole su di me&lt;/h3&gt;&#xA;&lt;p&gt;Sono un insegnante di Matematica e (occasionalmente) di Fisica presso una piccola scuola, secondaria di 2° grado, in Trentino-Alto Adige.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-licenza-dei-contenuti&#34;&gt;📜 Licenza dei contenuti&lt;/h3&gt;&#xA;&lt;p&gt;I contenuti di questo sito sono rilasciati sotto &lt;strong&gt;GNU Free Documentation License v1.3&lt;/strong&gt; (&lt;a href=&#34;https://www.gnu.org/licenses/fdl-1.3-standalone.html&#34;&gt;testo completo&lt;/a&gt;), salvo dove diversamente specificato.&lt;/p&gt;&#xA;&lt;p&gt;Il materiale concesso sotto la versione corrente della licenza può essere utilizzato a condizione che il suo uso sia conforme a determinate condizioni:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stuff</title>
+      <link>http://localhost:1313/stuff/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/stuff/</guid>
+      <description>&lt;h3 id=&#34;under-construction&#34;&gt;Under construction&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/under_construction.jpg&#34; alt=&#34;Under construction&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/ric_capucho/24480326649/&#34;&gt;Weggis – Ilford Delta 100&lt;/a&gt; – Ric Capucho - (&lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/deed.it&#34;&gt;CC BY 2.0&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

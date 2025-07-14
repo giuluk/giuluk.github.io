@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Do the math</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Do the math</description>
+    <generator>Hugo</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sun, 13 Jul 2025 16:52:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Questo è un test</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Jul 2025 16:52:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;prova&#34;&gt;Prova!!!&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The beauty of mathematics only shows itself to more patient followers.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Maryam Mirzakhani&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

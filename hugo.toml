@@ -1,0 +1,49 @@
+baseURL = 'https://giuluk.github.io/'
+languageCode = 'it-it'
+title = 'Do the math'
+theme = 'paper'
+
+defaultContentLanguage = 'it'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+
+[languages]
+  [languages.it]
+    languageCode = 'it-IT'
+    languageName = 'Italiano'
+    timeZone = 'Europe/Rome'
+    weight = 1
+
+[menus]
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/posts'
+    weight = 10
+  [[menus.main]]
+    name = 'Stuff'
+    pageRef = '/stuff'
+    weight = 20
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+  [[menus.main]]
+    name = 'Privacy'
+    pageRef = '/privacy'
+    weight = 40
+
+[params]
+  # header social icons
+  github = 'giuluk'
+  Instagram = 'giuluk/'
+  rss = true
+
+  # misc
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  math = true                               # enable KaTeX math typesetting globally
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
