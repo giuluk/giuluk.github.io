@@ -5,8 +5,7 @@ layout = 'page'
 title = 'Privacy e Cookie Policy'
 +++
 
-Questo sito è un blog personale gestito da **Giuseppe Lucarelli**.
-Non raccoglie dati personali, non effettua profilazione degli utenti e **non utilizza cookie** propri o di terze parti.
+Questo sito non raccoglie dati personali, non effettua profilazione degli utenti e **non utilizza cookie** propri o di terze parti.
 
 ### 🍪 Cookie
 
