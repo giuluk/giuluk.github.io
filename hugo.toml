@@ -1,7 +1,7 @@
 baseURL = 'https://giuluk.github.io/'
 languageCode = 'it-it'
 title = 'Do the math'
-theme = 'paper'
+#theme = 'paper'
 
 defaultContentLanguage = 'it'
 defaultContentLanguageInSubdir = false
@@ -47,3 +47,9 @@ disableDefaultLanguageRedirect = false
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[module]
+  [[module.imports]]
+    path = "github.com/martignoni/hugo-notice"
+  [[module.imports]]
+    path = "github.com/nanxiaobei/hugo-paper"
