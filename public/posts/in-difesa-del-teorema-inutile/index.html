@@ -1,0 +1,409 @@
+<!doctype html>
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg:#faf8f1"
+  lang="it-IT"
+  dir="ltr"
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>In difesa del teorema inutile - Do the math</title>
+
+  
+  <meta name="theme-color" />
+
+  <meta name="description" content="
+    
+        
+            
+  
+
+
+        Nota" />
+  <meta name="author" content="Do the math" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.svg" />
+
+  
+
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" /><link rel="preload" as="image" href="http://localhost:1313/instagram.svg" /><link rel="preload" as="image" href="http://localhost:1313/rss.svg" />
+
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script><link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css"
+  integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"
+  integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
+  integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05"
+  crossorigin="anonymous"
+></script><script>
+  document.addEventListener('DOMContentLoaded', () =>
+    renderMathInElement(document.body, {
+      
+      
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+      ],
+      
+      throwOnError: false,
+    }),
+  );
+</script>
+
+
+  
+  <link
+    rel="icon"
+    href="http://localhost:1313/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/apple-touch-icon.png"
+  />
+
+  <meta name="generator" content="Hugo 0.148.2">
+</head>
+<body
+    class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
+  ><header
+  class="mx-auto flex h-[4.5rem] max-w-(--w) px-8 whitespace-nowrap lg:justify-center"
+>
+  <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
+    <a
+      class="-translate-y-[1px] text-2xl font-medium"
+      href="http://localhost:1313/"
+      >Do the math</a
+    >
+    <div
+      class="btn-dark text-[0px] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.svg)_left_center/cover_no-repeat] dark:invert dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden ltr:-mr-8 rtl:-ml-8"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full flex-col justify-center bg-(--bg) pb-16 duration-200 select-none lg:static lg:h-auto lg:flex-row lg:bg-transparent! lg:pb-0 lg:transition-none"
+  ><nav
+      class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse"
+    ><a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/posts/"
+        >Blog</a
+      ><a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/stuff/"
+        >Stuff</a
+      ><a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      ><a
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/privacy/"
+        >Privacy</a
+      ></nav><nav
+      class="mt-12 flex justify-center space-x-10 lg:mt-0 lg:items-center ltr:lg:ml-14 rtl:space-x-reverse rtl:lg:mr-14 dark:invert"
+    >
+      <a
+        class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href="https://github.com/giuluk"
+        target="_blank"
+        rel="me"
+      >github</a>
+      <a
+        class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./instagram.svg)"
+        href="https://instagram.com/giuluk/"
+        target="_blank"
+        rel="me"
+      >instagram</a>
+      <a
+        class="h-7 w-7 text-[0px] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./rss.svg)"
+        href="http://localhost:1313/index.xml"
+        target="_blank"
+        rel="alternate"
+      >rss</a>
+    </nav>
+  </div>
+</header>
+<main
+      class="prose prose-neutral dark:prose-invert relative mx-auto min-h-[calc(100vh-9rem)] max-w-(--w) px-8 pt-14 pb-16"
+    ><article>
+  <header class="mb-14">
+    <h1 class="my-0! pb-2.5">In difesa del teorema inutile</h1><div class="text-xs antialiased opacity-60"><time>7 ago 2025</time></div></header>
+
+  <section><style type="text/css">
+     
+    .notice {
+        --title-color: #fff;
+        --title-background-color: #6be;
+        --content-color: #444;
+        --content-background-color: #e7f2fa;
+    }
+
+    .notice.info {
+        --title-background-color: #fb7;
+        --content-background-color: #fec;
+    }
+
+    .notice.tip {
+        --title-background-color: #5a5;
+        --content-background-color: #efe;
+    }
+
+    .notice.warning {
+        --title-background-color: #c33;
+        --content-background-color: #fee;
+    }
+
+     
+    @media (prefers-color-scheme:dark) {
+        .notice {
+            --title-color: #fff;
+            --title-background-color: #069;
+            --content-color: #ddd;
+            --content-background-color: #023;
+        }
+
+        .notice.info {
+            --title-background-color: #a50;
+            --content-background-color: #420;
+        }
+
+        .notice.tip {
+            --title-background-color: #363;
+            --content-background-color: #121;
+        }
+
+        .notice.warning {
+            --title-background-color: #800;
+            --content-background-color: #400;
+        }
+    }
+
+    body.dark .notice {
+        --title-color: #fff;
+        --title-background-color: #069;
+        --content-color: #ddd;
+        --content-background-color: #023;
+    }
+
+    body.dark .notice.info {
+        --title-background-color: #a50;
+        --content-background-color: #420;
+    }
+
+    body.dark .notice.tip {
+        --title-background-color: #363;
+        --content-background-color: #121;
+    }
+
+    body.dark .notice.warning {
+        --title-background-color: #800;
+        --content-background-color: #400;
+    }
+
+     
+    .notice {
+        padding: 18px;
+        line-height: 24px;
+        margin-bottom: 24px;
+        border-radius: 4px;
+        color: var(--content-color);
+        background: var(--content-background-color);
+    }
+
+    .notice p:last-child {
+        margin-bottom: 0
+    }
+
+     
+    .notice-title {
+        margin: -18px -18px 12px;
+        padding: 4px 18px;
+        border-radius: 4px 4px 0 0;
+        font-weight: 700;
+        color: var(--title-color);
+        background: var(--title-background-color);
+    }
+
+     
+    .icon-notice {
+        display: inline-flex;
+        align-self: center;
+        margin-right: 8px;
+    }
+
+    .icon-notice img,
+    .icon-notice svg {
+        height: 1em;
+        width: 1em;
+        fill: currentColor;
+    }
+
+    .icon-notice img,
+    .icon-notice.baseline svg {
+        top: .125em;
+        position: relative;
+    }
+</style><div class="notice note" >
+    <p class="notice-title">
+        <span class="icon-notice baseline">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 128 300 300">
+  <path d="M150 128c82.813 0 150 67.188 150 150 0 82.813-67.188 150-150 150C67.187 428 0 360.812 0 278c0-82.813 67.188-150 150-150Zm25 243.555v-37.11c0-3.515-2.734-6.445-6.055-6.445h-37.5c-3.515 0-6.445 2.93-6.445 6.445v37.11c0 3.515 2.93 6.445 6.445 6.445h37.5c3.32 0 6.055-2.93 6.055-6.445Zm-.39-67.188 3.515-121.289c0-1.367-.586-2.734-1.953-3.516-1.172-.976-2.93-1.562-4.688-1.562h-42.968c-1.758 0-3.516.586-4.688 1.563-1.367.78-1.953 2.148-1.953 3.515l3.32 121.29c0 2.734 2.93 4.882 6.64 4.882h36.134c3.515 0 6.445-2.148 6.64-4.883Z"/>
+</svg>
+
+        </span>Nota</p><p>Questo post è stato scritto originariamente nel 2016. Lo pubblico per testare l’inserimento dei post nel blog.</p></div>
+
+<p>È facile giustificare lo studio della matematica in nome della sua utilità. Più difficile è farlo in nome della sua bellezza.
+Eppure, è proprio lì, nella bellezza, che la matematica sa lasciare un segno duraturo. Una matematica bella lascia un’impronta: non si dimentica, non si limita a risolvere problemi già noti, ma apre nuovi sguardi.</p>
+<p>G.H. Hardy, nella sua <em>Apologia di un matematico</em>, sosteneva che un teorema è <em>serio</em> non per le sue applicazioni pratiche, spesso trascurabili, ma per la profondità delle idee che riesce a mettere in relazione. È in questa serietà, più che nell’utilità, che secondo lui risiede la bellezza.</p>
+<p>Hardy indica due teoremi che considera, insieme, seri e belli, perché</p>
+<blockquote>
+<p>&hellip; enunciato e dimostrazione possono essere pienamente compresi in meno di un’ora da un lettore intelligente, per quanto scarso sia il suo bagaglio di cognizioni matematiche.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p></blockquote>
+<p>Il primo è la dimostrazione dell’<a href="https://it.wikipedia.org/wiki/Teorema_dell%27infinit%C3%A0_dei_numeri_primi">infinità dei numeri primi</a>; il secondo riguarda l’<a href="https://it.wikipedia.org/wiki/Radice_quadrata_di_2#Prove_dell%27irrazionalit%C3%A0">irrazionalità della radice quadrata di due</a>. Si tratta di teoremi antichi di oltre duemila anni, semplici nella forma ma di qualità indiscutibile.</p>
+<p>Hardy rincara la dose:</p>
+<blockquote>
+<p>&hellip; sono un banco di prova, e se il lettore è incapace di apprezzarli è improbabile che sappia apprezzare qualcosa della matematica.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p></blockquote>
+<p>Viene da chiedersi: <strong>questa matematica</strong> può rappresentare un’alternativa all’algoritmica risoluzione di esercizi ridondanti e privi di contesto?
+In un’aula scolastica, un insegnante dovrebbe confrontarsi con i propri studenti sul metodo deduttivo che emerge da queste dimostrazioni, oppure limitarsi a &ldquo;misurarli&rdquo; sulla rapidità con cui sanno recitare formule o risolvere equazioni?</p>
+<h3 id="la-dittatura-del-calcolo">La dittatura del calcolo</h3>
+<p>Oggi agli studenti si richiede padronanza del linguaggio formale, conoscenza delle regole e delle tecniche di calcolo, capacità di risolvere problemi cosiddetti “pratici”. Alla fine la valutazione si riduce spesso a una semplice conta delle risposte esatte: una misura di abilità meccaniche, scollegate da qualsiasi reale comprensione.</p>
+<p><strong>Ma se a essere sbagliate fossero le domande?</strong></p>
+<p>Ha davvero senso chiedere di riprodurre &ldquo;ricette&rdquo; apprese dopo estenuanti sessioni di esercizi standardizzati qualche volta rivestite con una patina di &ldquo;concretezza&rdquo; che suona spesso artificiosa?
+Davvero sapere &ldquo;quanti anni ha Giovanni&rdquo; dopo aver risolto una equazione lineare permette di acquisire competenze irrinunciabili?</p>
+<h3 id="la-matematica-che-non-serve-ma-che-resta">La matematica che non serve (ma che resta)</h3>
+<p>Si può anche concedere che le indicazioni ministeriali abbiano una loro logica, e che saper maneggiare regole e tecniche di calcolo sia utile, perfino necessario.</p>
+<p>Ma perché <strong>quella matematica</strong> dovrebbe essere la sola o la prevalente?</p>
+<p>Siamo ormai d’accordo che interrogarsi sull’irrazionalità della radice di due possa rappresentare un’attività più significativa che memorizzare i radicali doppi. E allora perché il <a href="https://it.wikipedia.org/wiki/Problema_di_Apollonio">problema di Apollonio</a> o l’<a href="https://it.wikipedia.org/wiki/Teorema_di_Pascal">Hexagrammum Mysticum di Pascal</a> non meritano lo stesso spazio riservato all’apprendimento di quattro diverse tecniche per risolvere un sistema lineare?</p>
+<h3 id="tertium-non-datur">Tertium non datur?</h3>
+<p>Ho spesso l&rsquo;impressione che gli insegnanti di matematica si trovino davanti a un bivio: tra ciò che <strong>vorrebbero</strong> fare e ciò che sentono di <strong>dover</strong> fare. Tra il desiderio di trasmettere la bellezza della matematica e l’obbligo di &ldquo;addestrare&rdquo; gli studenti alla risoluzione standardizzata.
+Un bivio che troppo spesso non sembra offrire alternative.
+Eppure proprio in questo spazio, tra il <em>vorrei</em> e il <em>dovrei</em>, potrebbe nascere una <strong>nuova scelta</strong>. Una didattica che recuperi il senso profondo della matematica, che la restituisca come linguaggio del pensiero, come strumento di verità ma anche come esercizio di bellezza.</p>
+<h3 id="diophanto-sì-giovanni-no">Diophanto sì, Giovanni no.</h3>
+<p>A proposito degli odiosi <em>&ldquo;age word problems&rdquo;</em>&hellip;
+Diophanto di Alessandria con il suo <a href="https://it.wikipedia.org/wiki/Diofanto_di_Alessandria#Il_problema_della_tomba_di_Diofanto">epitaffio</a> ispirava uno dei più antichi problemi algebrici: la sua vita descritta come una somma di frazioni, dalla giovinezza al matrimonio, dalla nascita del figlio alla morte. Se non altro,  c’era un po’ di poesia.</p>
+<p>L’età di Diophanto ci ha lasciato un’eredità millenaria.<br>
+Quella di Giovanni, solo un’equazione da risolvere.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>G.H. Hardy, <em>Apologia di un matematico</em> (<em>A Mathematician’s Apology</em>), trad. di L. Saraval, Milano, Garzanti, 2002, p. 72.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Ibid., p. 75.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+</section>
+
+  <footer class="mt-12 flex flex-wrap"><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/tags/didattica"
+      >didattica</a
+    ><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/tags/matematica"
+      >matematica</a
+    ><a
+      class="mb-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] ltr:mr-1.5 rtl:ml-1.5 dark:bg-white/[8%] dark:hover:bg-white/[12%]"
+      href="http://localhost:1313/tags/riflessioni"
+      >riflessioni</a
+    ></footer></article></main><footer
+  class="mx-auto flex h-[4.5rem] max-w-(--w) items-center px-8 text-xs tracking-wider uppercase opacity-60"
+>
+  <div class="mr-auto">&copy;2025
+    <a class="link" href="http://localhost:1313/">Do the math</a></div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >powered by hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >hugo-paper</a
+  >
+</footer>
+</body>
+</html>

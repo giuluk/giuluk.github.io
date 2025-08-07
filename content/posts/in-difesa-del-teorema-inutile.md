@@ -1,10 +1,9 @@
 +++
 title = 'In difesa del teorema inutile'
-date = '2025-07-13T16:52:50+02:00'
-draft = true
+date = '2025-08-07T23:51:00+02:00'
+draft = false
 tags = ["didattica", "matematica", "riflessioni"]
 categories = ["blog"]
-summary = "Una riflessione su come la matematica riesca a trovare valore anche nei suoi aspetti apparentemente inutili."
 +++
 {{< notice note >}}
 Questo post è stato scritto originariamente nel 2016. Lo pubblico per testare l’inserimento dei post nel blog.

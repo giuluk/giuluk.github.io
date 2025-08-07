@@ -3,13 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-13T16:52:50+02:00</lastmod>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/blog/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/didattica/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/in-difesa-del-teorema-inutile/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/matematica/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-13T16:52:50+02:00</lastmod>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-07-13T16:52:50+02:00</lastmod>
+    <loc>http://localhost:1313/tags/riflessioni/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2025-07-13T00:00:00+02:00</lastmod>
@@ -19,9 +37,5 @@
   </url><url>
     <loc>http://localhost:1313/stuff/</loc>
     <lastmod>2019-07-04T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

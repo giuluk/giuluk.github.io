@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Do the math</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Do the math</description>
+    <title>Riflessioni on Do the math</title>
+    <link>http://localhost:1313/tags/riflessioni/</link>
+    <description>Recent content in Riflessioni on Do the math</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <lastBuildDate>Thu, 07 Aug 2025 23:51:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/riflessioni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In difesa del teorema inutile</title>
       <link>http://localhost:1313/posts/in-difesa-del-teorema-inutile/</link>
