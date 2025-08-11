@@ -17,7 +17,7 @@ Non sono presenti:
 
 L'assenza di questi elementi rende **non necessario** il banner informativo o il consenso preventivo, in conformità al [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679) e alle [Linee guida cookie del Garante](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9677876).
 
-### 📐 Formula e rendering matematico
+### 📐 Rendering matematico
 
 Il sito utilizza [KaTeX](https://katex.org/) per visualizzare formule matematiche scritte in LaTeX. 
 KaTeX è una libreria **inclusa localmente**: non effettua tracciamento e **non imposta cookie**.

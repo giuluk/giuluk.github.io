@@ -18,4 +18,5 @@ Il materiale concesso sotto la versione corrente della licenza può essere utili
 - il testo completo della licenza e le altre rinunce di garanzia aggiunte e le informazioni sul copyright di versioni precedenti devono essere mantenute;
 - misure tecniche come i DRM non possono essere utilizzate per controllare od ostruire distribuzioni o editing del documento.
 
-[![Alt text](https://www.gnu.org/graphics/gfdl-logo-tiny.png)](https://www.gnu.org/licenses/fdl-1.3.html#license-text)
+### 📬 Contatti
+Se vuoi scrivermi, puoi farlo a [questo indirizzo](mailto:contact@giuluk.anonaddy.me).
