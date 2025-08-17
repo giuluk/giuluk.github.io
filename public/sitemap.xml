@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://giuluk.github.io/</loc>
+    <lastmod>2025-08-18T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://giuluk.github.io/posts/</loc>
+    <lastmod>2025-08-18T15:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://giuluk.github.io/categories/blog/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/blog/</loc>
+    <loc>https://giuluk.github.io/categories/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://giuluk.github.io/tags/didattica/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/didattica/</loc>
+    <loc>https://giuluk.github.io/posts/in-difesa-del-teorema-inutile/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/in-difesa-del-teorema-inutile/</loc>
+    <loc>https://giuluk.github.io/tags/matematica/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/matematica/</loc>
+    <loc>https://giuluk.github.io/tags/riflessioni/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://giuluk.github.io/tags/</loc>
     <lastmod>2025-08-07T23:51:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/riflessioni/</loc>
-    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-07T23:51:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://giuluk.github.io/privacy/</loc>
     <lastmod>2025-07-13T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://giuluk.github.io/about/</loc>
     <lastmod>2019-07-04T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stuff/</loc>
+    <loc>https://giuluk.github.io/stuff/</loc>
     <lastmod>2019-07-04T00:00:00+02:00</lastmod>
   </url>
 </urlset>

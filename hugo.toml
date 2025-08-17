@@ -50,6 +50,7 @@ disableDefaultLanguageRedirect = false
 
 [module]
   [[module.imports]]
-    path = "github.com/martignoni/hugo-notice"
+    path = "github.com/giuluk/hugo-notice"
   [[module.imports]]
     path = "github.com/nanxiaobei/hugo-paper"
+

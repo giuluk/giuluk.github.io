@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Do the math</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://giuluk.github.io/tags/</link>
     <description>Recent content in Tags on Do the math</description>
     <generator>Hugo</generator>
     <language>it-IT</language>
     <lastBuildDate>Thu, 07 Aug 2025 23:51:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://giuluk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Didattica</title>
-      <link>http://localhost:1313/tags/didattica/</link>
+      <link>https://giuluk.github.io/tags/didattica/</link>
       <pubDate>Thu, 07 Aug 2025 23:51:00 +0200</pubDate>
-      <guid>http://localhost:1313/tags/didattica/</guid>
+      <guid>https://giuluk.github.io/tags/didattica/</guid>
       <description></description>
     </item>
     <item>
       <title>Matematica</title>
-      <link>http://localhost:1313/tags/matematica/</link>
+      <link>https://giuluk.github.io/tags/matematica/</link>
       <pubDate>Thu, 07 Aug 2025 23:51:00 +0200</pubDate>
-      <guid>http://localhost:1313/tags/matematica/</guid>
+      <guid>https://giuluk.github.io/tags/matematica/</guid>
       <description></description>
     </item>
     <item>
       <title>Riflessioni</title>
-      <link>http://localhost:1313/tags/riflessioni/</link>
+      <link>https://giuluk.github.io/tags/riflessioni/</link>
       <pubDate>Thu, 07 Aug 2025 23:51:00 +0200</pubDate>
-      <guid>http://localhost:1313/tags/riflessioni/</guid>
+      <guid>https://giuluk.github.io/tags/riflessioni/</guid>
       <description></description>
     </item>
   </channel>
