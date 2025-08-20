@@ -50,8 +50,7 @@ Nel primo grafico emerge una curiosa anomalia a metà anni ’90: nelle stagioni
 
 ### Materiali allegati
 
-- [Notebook Jupyter usato per l’analisi](https://github.com/giuluk/giuluk.github.io/tree/77b39dac2aac6b498414dd3d636a585d1b8963af/static/2025-08-20/analisi.ipynb)  
-- [File CSV con i dati](https://github.com/giuluk/giuluk.github.io/tree/77b39dac2aac6b498414dd3d636a585d1b8963af/static/2025-08-20/nba.csv)  [^1]
+- [Notebook Jupyter usato per l’analisi](https://github.com/giuluk/giuluk.github.io/blob/d807b8d5538628e3e0acab2a4fafedf56ad62ae2/static/2025-08-20/analisi.ipynb)  
+- [File CSV con i dati](https://github.com/giuluk/giuluk.github.io/blob/d807b8d5538628e3e0acab2a4fafedf56ad62ae2/static/2025-08-20/nba.csv)  [^1]
 
 [^1]: I dati utilizzati provengono da [Basketball Reference](https://www.basketball-reference.com/).
-
