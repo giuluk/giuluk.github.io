@@ -1,4 +1,5 @@
-baseURL = 'https://giuluk.github.io/'
+baseURL = 'https://lucarelli.me/'
+
 languageCode = 'it-it'
 title = 'Do the math'
 #theme = 'paper'
