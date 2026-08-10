@@ -1,17 +1,15 @@
 baseURL = 'https://lucarelli.me/'
 
-languageCode = 'it-it'
 title = 'Do the math'
 #theme = 'paper'
 
-defaultContentLanguage = 'it'
 defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = false
 
 [languages]
   [languages.it]
-    languageCode = 'it-IT'
-    languageName = 'Italiano'
+    locale = 'it-IT'
+    label = 'Italiano'
     timeZone = 'Europe/Rome'
     weight = 1
 
