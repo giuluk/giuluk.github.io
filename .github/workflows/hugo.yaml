@@ -74,7 +74,6 @@ jobs:
           hugo \
             --gc \
             --minify \
-            #--baseURL "${{ steps.pages.outputs.base_url }}/" \
             --baseURL "https://lucarelli.me/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
