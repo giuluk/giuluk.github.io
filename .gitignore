@@ -1,3 +1,5 @@
 .DS_Store
 # File di backup di Emacs
 *~
+public/
+_vendor/

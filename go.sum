@@ -1,4 +1,8 @@
 github.com/giuluk/hugo-notice v0.0.0-20250812172836-023a4318a6c9 h1:O0kcjIXSk6sH0xttDlmxL0bdJlyU0WZvbb1h3BIp6Fk=
 github.com/giuluk/hugo-notice v0.0.0-20250812172836-023a4318a6c9/go.mod h1:C6S0kOgOCzaMOmwWy9/9NW1lGkB1zn1EL31hTus8/Mw=
+github.com/giuluk/hugo-notice v0.0.0-20260811072941-325a386df476 h1:X00NplQMnYvhKUodO4QvxmrWU2kFaWwSdI5bPexEP1o=
+github.com/giuluk/hugo-notice v0.0.0-20260811072941-325a386df476/go.mod h1:C6S0kOgOCzaMOmwWy9/9NW1lGkB1zn1EL31hTus8/Mw=
+github.com/martignoni/hugo-notice v0.0.0-20260115210225-7d3115657552 h1:azrQlG6B68MqITA3NNvLs8pjoGtvvl3eK41p8KGAWSM=
+github.com/martignoni/hugo-notice v0.0.0-20260115210225-7d3115657552/go.mod h1:MIQPOMgEcbyRC0gNLzQFSgrS+wIy3RuQ/HbaZYtTOKU=
 github.com/nanxiaobei/hugo-paper v0.0.0-20260309084619-de1169ec320d h1:CgzW/5B0DHXMbPzkS+bXAlrOCeYWqyYoNVWC3YB7yC4=
 github.com/nanxiaobei/hugo-paper v0.0.0-20260309084619-de1169ec320d/go.mod h1:cS2hTYPgmZ2FkPTQbOiX6vB0yLQcWD067kJx2lkRPVQ=
