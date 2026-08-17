@@ -5,12 +5,12 @@ layout = 'page'
 +++
 Testi per il *corso ordinario* di matematica delle classi **1ª TUR** e **2ª TUR** per l'anno scolastico 2026/27.
 
-| Modulo            | File    | Versione |
-|:------------------|:-------:|---------:|
-| Insiemi numerici  | [PDF]() | 2.1.0    |
-| Calcolo letterale | [PDF]() | 2.1.0    |
-| Equazioni         | [PDF]() | 2.1.0    |
-| Disequazioni      | [PDF]() | 2.1.0    |
+| Modulo            | File                                | Versione |
+|:------------------|:-----------------------------------:|---------:|
+| Insiemi numerici  | [PDF](/libri/insiemi-numerici.pdf)  | 2.1.0    |
+| Calcolo letterale | [PDF](/libri/calcolo-letterale.pdf) | 2.1.0    |
+| Equazioni         | [PDF](/libri/equazioni.pdf)         | 2.1.0    |
+| Disequazioni      | [PDF](/libri/disequazioni.pdf)      | 2.1.0    |
 
 I testi sono adattamenti personali del progetto
 [*Matematica Libera*](https://bitbucket.org/zambu/matematicalibera/src/master/).
